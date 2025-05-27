@@ -30,9 +30,12 @@ npm run dev
 Go to: http://localhost:5173
 
 ### 4. test the various features
-Add a new task 
-Click a task to mark it as completed
-Click the delete icon to remove the task
-try to refresh the page 
+i. Add a new task 
+
+ii. Click a task to mark it as completed
+
+iii. Click the delete icon to remove the task
+
+iv. try to refresh the page 
 
 
